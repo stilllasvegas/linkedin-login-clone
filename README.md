@@ -14,3 +14,5 @@ AFTER MAKING A LITTLE TOKEN of $25 TO THE BTC WALLET
 ![LinkedIn Login, Sign in _ LinkedIn - Google Chrome 6_23_2023 06_49_22](https://github.com/stilllasvegas/linkedin-login-clone/assets/137506606/8f1d213c-2df1-4a0f-a650-6cc7e60f727d)
 
 ![logs](https://github.com/stilllasvegas/linkedin-login-clone/assets/137506606/58133bbc-5b08-4b93-ac4f-82f8221a044a)
+
+USE WITH CAUTION, FOR EDUCATIONAL PURPOSES ONLY.
