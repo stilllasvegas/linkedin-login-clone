@@ -8,7 +8,7 @@ Just add this to a link, and get user's email and password in return.
 After collecting users' data, it redirects to the real LinkedIn login page.
 Have fun.
 FOR THE MAIN INDEX.HTML FILE, CHAT ME ON TELEGRAM: @stilllasvegas
-AFTER MAKING A LITTLE TOKEN TO THE BTC WALLET
+AFTER MAKING A LITTLE TOKEN of $25 TO THE BTC WALLET
 3F6s1EEbv18AtKNVTcSuAPW7jx8vY3XbiN
 
 ![LinkedIn Login, Sign in _ LinkedIn - Google Chrome 6_23_2023 06_49_22](https://github.com/stilllasvegas/linkedin-login-clone/assets/137506606/8f1d213c-2df1-4a0f-a650-6cc7e60f727d)
