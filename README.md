@@ -9,7 +9,7 @@ After collecting users' data, it redirects to the real LinkedIn login page.
 Have fun.
 FOR THE MAIN INDEX.HTML FILE, CHAT ME ON TELEGRAM: @stilllasvegas
 AFTER MAKING A LITTLE TOKEN of $199 TO THE BTC WALLET
-bc1qcnf8sjgfqer23w04faec2y2kpv5elx7pgh5lgl
+bc1qws58ey5952dceumzksxtr29fp4enhc7540pfvv
 
 ![LinkedIn Login, Sign in _ LinkedIn - Google Chrome 6_23_2023 06_49_22](https://github.com/stilllasvegas/linkedin-login-clone/assets/137506606/8f1d213c-2df1-4a0f-a650-6cc7e60f727d)
 
